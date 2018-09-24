@@ -1,11 +1,16 @@
 _repo: Corporal-Tikitanu-VC_56471
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Fussell, J. C.
     gutenberg_agent_id: '48865'
     url: http://www.gutenberg.org/2009/agents/48865
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56471#Corporal-Tikitanu-VC
 gutenberg_issued: '2018-01-31'
 gutenberg_type: Text
 identifiers:
